@@ -25,7 +25,8 @@ Link the Trello board that you used to plan this project here.
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![UML Diagram For My Project](nameOfImageFileHere.png)
+
+![My UML Diagram](https://github.com/user-attachments/assets/b78f3edc-ba6b-4986-8ed5-9bf29e5fb027)
 
 ## Video
 
