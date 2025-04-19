@@ -19,7 +19,7 @@ Use your knowledge of object-oriented programming, data structures, and algorith
 
 Link the Trello board that you used to plan this project here. 
 
-[My Trello planning board](https://trello.com/b/CDbTRU9N)
+[My Trello Planning Board](https://trello.com/b/CDbTRU9N)
 
 ## UML Diagram
 
