@@ -1,0 +1,15 @@
+Media Citations:
+Ex: "Lazy cat image" found at https://pixabay.com/photos/cat-animal-pet-lounging-feline-7271017/
+
+Fretboard found on https://notesonaguitar.com/how-to-read-guitar-notation-part-2-fretboard-diagrams/
+Swoosh sound effect found on: https://pixabay.com/sound-effects/swoosh-sound-effect-for-fight-scenes-or-transitions-2-149890/
+Song Kiss Me by Sixpence None The Richer: https://www.youtube.com/watch?v=-CQ4yr9o0qM
+
+
+AI Citations:
+Ex: "Used Claude to debug my constructor method in my subclass. 
+     The resolution was using super() set the instances variable to the superclass."`
+
+     - Used Claude to debug the createChordArray() method to allow the code to run, the only change made was a for loop which would 
+       allow all kinds of chords to be run and not just chords with specifically three fingers needed
+     - Used chatGPT to help with documentation in the Chord class
