@@ -36,26 +36,20 @@ Record a short video of your project to display here on your README. You can do 
 - Take a thumbnail for your image.
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
-  [My Project](https://github.com/user-attachments/assets/8d930e63-8cfd-4d46-aa12-050f96a347e4)
+
+[My Project](https://github.com/user-attachments/assets/8d930e63-8cfd-4d46-aa12-050f96a347e4)
 
 
 ## Project Description
 
 Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
 
-As Guitar Players our goal was to help inspire other people to get into learning how to play the guitar. So we decided to code an iconic song into the theatre class that displays each chord needed to play the song Kiss Me by Sixpence None The Richer. We hope that by displaying each chord it would educate others on the various guitar chords they can learn in order to play this song, and many others.
-One User Story we Identified was: 
-User Story:
-As a developer, I want to create three different algorithms, to help display the different notes on a guitar.
+As Guitar Players our goal was to help inspire other people to get into learning how to play the guitar. So we decided to code an iconic song into the theatre class that displays each chord needed to play the song Kiss Me by Sixpence None The Richer. We hope that by displaying each chord it would educate others on the various guitar chords they can learn in order to play this song, and many others. We also understand that our code could be used in a learning aspect. We could appeal to coders attempting to learn about data structures, algorithms, and polymorphism.
 
-Criteria to be met:
+### The User Stories We Identified Were: 
+As a developer, I want to be able to understand polymorphism better as well as how to use animation inside of the theater class.
 
-Use inheritance and polymorphism
+As an avid music enjoyer, I really want to learn how to play some of my favorite songs on the guitar.
 
-Implement method decomposition
-
-Steps to complete:
-
-Go back to previous lessons, re learn how to create such methods.
-
-Create starter code
+#### How They Frame The Making Of Our Animation
+These User Stories help to frame our animation as we would be able to help these two users in learning about both the musical side as well as the coding side of our animation. The music lover could learn the chords required to play this song and many other songs with these same chords. It will be easier for them as their is a visual guide in place. Then the developer could better learn how to code because of the many descriptons we put out inside of our code. They could easily scan through and analyze how our code works!
